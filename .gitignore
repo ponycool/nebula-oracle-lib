@@ -1,6 +1,5 @@
 .DS_Store
 .idea
 go.sum
-logs
-.env*
-*.json
+test/.env
+test/log

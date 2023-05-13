@@ -11,6 +11,10 @@ Oracle 操作类库
 
 [安装说明](https://oracle.github.io/odpi/doc/)
 
+_注意_
+
+引用此库后，项目无法进行交叉编译，请使用容器进行编译
+
 ## Install
 
 ```
